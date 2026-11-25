@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p241559-e2403521.adobeaemcloud.com/bin/franklin.delivery/acn-miki-seki/aem-ue/main"
-    type: "markup"
-    suffix: ".html"
