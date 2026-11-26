@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-ue--acn-miki-seki.aem.live/sitemap.xml
